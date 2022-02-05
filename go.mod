@@ -1,4 +1,4 @@
-module github.com/StampyGumball/pirate-stealer-by-bytixo/tree/main/src/Undetected/Builder
+module github.com/Lowki1337/test
 
 go 1.17
 
